@@ -1,0 +1,16 @@
+[
+    {
+        "first": "Kimberly",
+        "last": "Epstein",
+        "username": "kimberly",
+        "password": "kpassword",
+        "savedLocations": []
+    },
+    {
+        "first": "admin",
+        "last": "admin",
+        "username": "username",
+        "password": "password",
+        "savedLocations": []
+    }
+]
