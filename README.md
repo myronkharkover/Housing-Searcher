@@ -1,4 +1,10 @@
+## LocaLife
 Tool to learn more about different zip codes / countys via statistics ranging from # of jobs within a 45 minute driving raidus to the # of hospitals within the area.
+
+### Video Demo
+https://drive.google.com/file/d/1AJN6JVag7KseL6XcztF4r5fCvnY6C4EN/view
+
+
 
 To run the app:
 - run `cd housing-searcher` then `npm start` to start the frontend
